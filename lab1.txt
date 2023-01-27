@@ -1,0 +1,13 @@
+pwd
+cd /home/2022210015
+pwd
+touch names.txt
+ls
+cat>names.txt
+cat names.txt
+touch NAUM.txt
+cp names.txt NAUM.txt
+cat NAUM.txt
+rm names.txt
+tail -2 NAUM.txt
+wc -l NAUM.txt
